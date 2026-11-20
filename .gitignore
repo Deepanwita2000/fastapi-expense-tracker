@@ -21,3 +21,7 @@ Thumbs.db
 # Testing
 .pytest_cache/
 .coverage
+
+
+# Personal learning notes
+notes.txt
